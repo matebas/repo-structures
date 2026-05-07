@@ -47,7 +47,7 @@ Para unir de forma fluida a metodologia GitOps (onde a fonte da verdade está no
 Abaixo estão as referências visuais da arquitetura de rede proposta e também do processo de checagem com a ferramenta Trivy:
 
 ### Arquitetura de Rede
-![Arquitetura de Rede](./arquitetura-rede.png)
+![Arquitetura de Rede](./arquitetura.png)
 
 ### Scanner de Vulnerabilidades com Trivy
-![Trivy Scan](./trivy-scan.png)
+![Trivy Scan](./trivy.png)
