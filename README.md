@@ -50,4 +50,4 @@ Abaixo estão as referências visuais da arquitetura de rede proposta e também 
 ![Arquitetura de Rede](./arquitetura.png)
 
 ### Scanner de Vulnerabilidades com Trivy
-![Trivy Scan](./trivy.png)
+![Trivy Scan](./trivy.png) 
